@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/snellc1/3_Column-Preview](https://github.com/snellc1/3_Column-Preview)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://snellc1.github.io/3_Column-Preview/](https://snellc1.github.io/3_Column-Preview/)
 
 ## My process
 
